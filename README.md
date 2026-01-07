@@ -1,2 +1,2 @@
 # NAITIK-KUMAR_10861-PFC-MINI-PROJECT
-![image alt](Vhttps://github.com/naitikpandey008-maker/NAITIK-KUMAR_10861-PFC-MINI-PROJECT/blob/4a13c3217aaa8dd5efa1bcb6dec113979f037be6/Screenshot%202026-01-05%20235857.png)
+![image alt](https://github.com/naitikpandey008-maker/NAITIK-KUMAR_10861-PFC-MINI-PROJECT/blob/21288439e108700d02e23541541c85ed13d04ab6/Screenshot%202026-01-05%20235857.png)

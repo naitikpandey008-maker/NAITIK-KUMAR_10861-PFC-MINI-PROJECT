@@ -1,5 +1,6 @@
 # NAITIK-KUMAR_10861-PFC-MINI-PROJECT
 Online Food Order Simulation System 🍔🍕🥗
+
 Project Overview
 
 The Online Food Order Simulation System is a C program that allows users to order food from a menu and calculates the total bill based on the selected items and their quantities. It uses 1D arrays for menu prices, loops for bill calculation, and functions for order processing.
